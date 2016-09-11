@@ -1,5 +1,5 @@
 # Mod Picker Issues
-This is a public issue tracker for Mod Picker.  Please direct issues with Mod Analyzer to its repository [here](https://github.com/matortheeternal/mod-analyzer).
+This is a public issue tracker for Mod Picker.  Please submit issues with Mod Analyzer  [here](https://github.com/matortheeternal/mod-analyzer).
 
 ## Submitting an Issue
 
