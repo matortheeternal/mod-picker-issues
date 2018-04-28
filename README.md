@@ -3,8 +3,8 @@ This is a public issue tracker for Mod Picker.  Please submit issues with Mod An
 
 ## Submitting an Issue
 
-1. Go to the [issues tab](http://puu.sh/r7gEQ.png).
-2. Do [a quick search](http://puu.sh/r7gHg.png) to make certain a similar issue hasn't already been submitted.
+1. Go to the [issues tab](http://puu.sh/AbJLq.png).
+2. Do [a quick search](http://puu.sh/AbJL6.png) to make certain a similar issue hasn't already been submitted.
 3. If the issue has not yet been submitted, click the green "New Issue" button.
 4. Enter a title for your issue.  Try to make a title that briefly describes where the issue happens and what happens.
 5. Enter a description for the issue.  The most important thing to provide here is detailed steps to recreate the issue, if known.  It's also helpful to note what web browser and operating system you're using.
